@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**obj3ct1fi3d/obj3ct1fi3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and multimedia artist, focusing on creative coding and digital art.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **World Maker & World Travel**  
+    Developing two interconnected tabletop RPG projects using Lua and Love2D:
+
+    -   _World Maker_ - A world-building tool.
+    -   _World Travel_ - A game for exploring the created world.  
+        These projects are built without external libraries, using custom solutions.
+
+-   **Glitch Art & Digital Art**  
+    Creating glitch art and other experimental art styles.
+
+## 🛠️ Skills & Technologies
+
+-   **Languages:** JavaScript, Lua, Zig, ...
+-   **Tools/Frameworks:** p5.js, Love 2D, ...
+-   **Other Interests:** Linux (Arch, Xfce), Audio/Video/Image Editing, ...
+
+## 📫 Contact
+
+-   **Check social links on [profile](https://github.com/obj3ct1fi3d).**
